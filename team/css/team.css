@@ -66,6 +66,10 @@
         margin-bottom: 20px;
     }
 
+    .our-team .team-content .member-name {
+        display: block;
+    }
+
     .our-team .title {
         font-size: 22px;
         font-weight: 700;
@@ -122,5 +126,9 @@
             width: 80%;
             margin-top: 30px;
 		}
+
+        .our-team .team-content .member-name {
+            display: inline;
+        }
 	}
 

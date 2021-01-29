@@ -53,17 +53,17 @@
                         <div class="col-lg-3 col-md-4 all">
                             <div class="our-team">
                                 <div class="pic">
-                                    <img src="images/person_1.jpg" alt="" />
+                                    <img src="images/team/Sanskriti_Bhansali.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
                                     <h3 class="title">Sanskriti Bhansali</h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/sanskriti0310" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://twitter.com/sanskriti88" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/sanskritibhansali/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/sanskriti-bhansali/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/sanskriti0310" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="https://twitter.com/sanskriti88" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/sanskritibhansali/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/sanskriti-bhansali/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -77,10 +77,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/shaun.zacharia.77/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/shaun_zac/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/shaun-zacharia-716a8b184/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/shaun.zacharia.77/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/shaun_zac/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/shaun-zacharia-716a8b184/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -94,10 +94,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/neilabh.banzal/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/neilabh_banzal/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/neilabh" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/neilabh.banzal/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/neilabh_banzal/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/neilabh" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -111,10 +111,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/piyush.jirwankar" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/piyushjirwankar" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/piyush.jirwankar" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/piyushjirwankar" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -128,10 +128,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/karan.jagdale.5/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/karan-jagdale-460b49195/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/karan.jagdale.5/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/karan-jagdale-460b49195/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -145,10 +145,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100018389464280" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/_tiwari.dhananjay_/?hl=en" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/dhananjay-tiwari-802399176/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100018389464280" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/_tiwari.dhananjay_/?hl=en" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/dhananjay-tiwari-802399176/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -162,10 +162,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/ashay.wakode.9" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/ashay-wakode-a074ab154" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/ashay.wakode.9" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/ashay-wakode-a074ab154" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -179,10 +179,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/aryan.lall.9" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/aryan_lall/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/aryan-lall-77038a168/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/aryan.lall.9" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/aryan_lall/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/aryan-lall-77038a168/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -198,10 +198,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/shreya.laddha.779" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/shreya-laddha/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/shreya.laddha.779" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/shreya-laddha/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -215,10 +215,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100009854465275" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/arpit_wan_kenobi/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/arpit-verma-32b764194/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100009854465275" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/arpit_wan_kenobi/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/arpit-verma-32b764194/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -232,10 +232,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/rateesh.sabde/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/rateeshsabde/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/rateesh-sabde-828b51179/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/rateesh.sabde/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/rateeshsabde/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/rateesh-sabde-828b51179/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -249,10 +249,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100005204794673" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/rohitkumaryadav66/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100005204794673" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/rohitkumaryadav66/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -266,10 +266,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="#" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="#" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -283,10 +283,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/prajwal.prathiksh" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/prajwal.prathiksh/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/k-t-prajwal-prathiksh-5672571b3/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/prajwal.prathiksh" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/prajwal.prathiksh/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/k-t-prajwal-prathiksh-5672571b3/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -300,10 +300,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/avsavarkar" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://twitter.com/AtharvSavarkar" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/atharv_savarkar/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/atharv-savarkar/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/avsavarkar" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="https://twitter.com/AtharvSavarkar" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/atharv_savarkar/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/atharv-savarkar/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -317,10 +317,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/bhavini.jeloka.7" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/bhavini.jeloka.7" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -334,10 +334,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/pranav.kasat.1" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/pranav-kasat-522aa418b" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/pranav.kasat.1" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/pranav-kasat-522aa418b" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -351,10 +351,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/hrithik.agrawal.142" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/hrithik-agrawal-390a851b1/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/hrithik.agrawal.142" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/hrithik-agrawal-390a851b1/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -368,10 +368,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/amruthalakshmi.vadladi.9" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/amrutha-lakshmi-vadladi-8b0930174" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/amruthalakshmi.vadladi.9" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/amrutha-lakshmi-vadladi-8b0930174" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -385,10 +385,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="#" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/ritulshinde_2305/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/ritul-shinde-432a86171/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="#" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/ritulshinde_2305/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/ritul-shinde-432a86171/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -402,10 +402,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/yuktee.gupta/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/yuktee-gupta/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/yuktee.gupta/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/yuktee-gupta/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -419,10 +419,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/YashIsBatmanOhShitNoHeIsNot" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/yash-dixit-2412631b2/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/YashIsBatmanOhShitNoHeIsNot" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/yash-dixit-2412631b2/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -436,10 +436,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100005757764924" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/0ye_ankit_/?hl=en" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/ankit-kumar-303ba7170/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100005757764924" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/0ye_ankit_/?hl=en" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/ankit-kumar-303ba7170/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -453,10 +453,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://m.facebook.com/aakash.akash.73" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/aakashnln/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/aakash-v-42841987/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://m.facebook.com/aakash.akash.73" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/aakashnln/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/aakash-v-42841987/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -470,10 +470,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/mitalee.oza.3" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/mitalee.oza.3" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -487,10 +487,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100005377336573" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/heman_t.g/" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100005377336573" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/heman_t.g/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -521,10 +521,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100007222275227" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://twitter.com/mohit_dhk" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/mohit_dhk" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/mohit-dhaka-320306171" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100007222275227" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="https://twitter.com/mohit_dhk" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/mohit_dhk" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/mohit-dhaka-320306171" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -540,10 +540,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/yatin.jindal.77/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/y_a_t_i_n_j/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/yatin-jindal-9717a71a9/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/yatin.jindal.77/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/y_a_t_i_n_j/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/yatin-jindal-9717a71a9/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -557,10 +557,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/akshat.vira.5" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/akshat.vira.5" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -574,10 +574,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/vidushi.verma.167" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/vidushivermaa/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/vidushi-verma-667868194/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/vidushi.verma.167" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/vidushivermaa/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/vidushi-verma-667868194/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -591,10 +591,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/ishan.phansalkar.9/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/ishanphansalkar/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/ishan-phansalkar/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/ishan.phansalkar.9/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/ishanphansalkar/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/ishan-phansalkar/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -608,10 +608,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/vatsal.kanodia" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/vatsal893/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/vatsal-kanodia-469317192/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/vatsal.kanodia" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/vatsal893/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/vatsal-kanodia-469317192/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -625,10 +625,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/anmol.harshana" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/anmol-harshana-8735831b0/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/anmol.harshana" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/anmol-harshana-8735831b0/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -642,10 +642,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/nav.jit.714/" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://twitter.com/solitary_nav" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/nav.jit/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/navjit-debnath-34b1b5191/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/nav.jit.714/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="https://twitter.com/solitary_nav" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/nav.jit/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/navjit-debnath-34b1b5191/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -659,10 +659,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/shiven.barbare" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/shivn.01/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/shiven-barbare" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/shiven.barbare" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/shivn.01/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/shiven-barbare" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -676,10 +676,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/pranjal.gupta.710" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="http://linkedin.com/in/pranjal-gupta-aa1411192" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/pranjal.gupta.710" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="http://linkedin.com/in/pranjal-gupta-aa1411192" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -693,10 +693,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="#" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="#" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -710,10 +710,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/shreeya.athaley.7" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/shreeya8ley/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/shreeya-athaley-57b484193" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/shreeya.athaley.7" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/shreeya8ley/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/shreeya-athaley-57b484193" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -727,10 +727,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100011778216063" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/soham-phanse-9088b5194/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100011778216063" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/soham-phanse-9088b5194/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -744,10 +744,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/galavineet" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/vineet.gala" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/vineet-gala-4581b7191" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/galavineet" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/vineet.gala" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/vineet-gala-4581b7191" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -761,10 +761,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/vaishnavi.agarwal.71868/" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://twitter.com/VaishnaviGaurav " class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/vishu_navi/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/vaishnavi-agarwal-5774321a9/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/vaishnavi.agarwal.71868/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="https://twitter.com/VaishnaviGaurav " class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/vishu_navi/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/vaishnavi-agarwal-5774321a9/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -778,10 +778,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/leena.chaudhari.902266/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/leena.chaudhari10/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/leena-chaudhari-7666521b4/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/leena.chaudhari.902266/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/leena.chaudhari10/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/leena-chaudhari-7666521b4/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -795,10 +795,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/bvcxz1/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/aburstofradium/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/aravind-bharathi/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/bvcxz1/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/aburstofradium/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/aravind-bharathi/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -812,10 +812,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/akshat.mehta.568/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/akshatmehta19/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/akshatmehta1906/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/akshat.mehta.568/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/akshatmehta19/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/akshatmehta1906/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -829,10 +829,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100008234599104" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://twitter.com/anujsagrawal22?s=09" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/anuj_22_agrawal/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/anuj-agrawal-a25862194/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100008234599104" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="https://twitter.com/anujsagrawal22?s=09" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/anuj_22_agrawal/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/anuj-agrawal-a25862194/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -846,10 +846,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/siddhi.bagul.54" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/siddhi.bagul_23/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/siddhi-bagul-1817481a0/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/siddhi.bagul.54" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/siddhi.bagul_23/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/siddhi-bagul-1817481a0/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -863,10 +863,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100005726355835" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/adesh-yadav-818586179/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100005726355835" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/adesh-yadav-818586179/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -880,10 +880,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100002414497285" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/aayush-shah-021b501b5/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100002414497285" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/aayush-shah-021b501b5/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -897,10 +897,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/jayant.saboo.92" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/jayantsaboo.19/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/jayant-saboo-8a085a194/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/jayant.saboo.92" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/jayantsaboo.19/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/jayant-saboo-8a085a194/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -914,10 +914,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/Shashank199696/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/shashank__sr/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/shashank-singh-ba407b204/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/Shashank199696/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/shashank__sr/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/shashank-singh-ba407b204/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -931,10 +931,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/aruja.khanna/" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/arujakhanna/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/aruja-k-4230781a5/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/aruja.khanna/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/arujakhanna/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/aruja-k-4230781a5/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -948,10 +948,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100039341087853" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/shruti.961/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/shruti-agrawal-1658991a9/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100039341087853" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/shruti.961/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/shruti-agrawal-1658991a9/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -965,10 +965,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100037822874317" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/vayumavlia1.6/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/pawan-mavlia-a748171a9" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100037822874317" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/vayumavlia1.6/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/pawan-mavlia-a748171a9" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -982,10 +982,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100040419040973" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="http://www.instagram.com/anjli_rwt/" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100040419040973" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="http://www.instagram.com/anjli_rwt/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -999,10 +999,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/siddharth.khandelwal.528" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/siddharth_1526/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/siddharth-khandelwal-711370193/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/siddharth.khandelwal.528" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/siddharth_1526/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/siddharth-khandelwal-711370193/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1016,10 +1016,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="#" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="#" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1033,10 +1033,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/dhanush.s.5473894" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/dhanush-s-829405192/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/dhanush.s.5473894" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/dhanush-s-829405192/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1050,10 +1050,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100005321116755" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/shivani26v/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/shivani-verma-a2b166191/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100005321116755" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/shivani26v/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/shivani-verma-a2b166191/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1067,10 +1067,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/prasham.shah.140" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/prasham1012/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/prasham-shah-70a36b193" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/prasham.shah.140" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/prasham1012/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/prasham-shah-70a36b193" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1084,10 +1084,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://m.facebook.com/pari.vermani" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://instagram.com/hey_its_a_me_pario/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/pari-vermani-98b672177" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://m.facebook.com/pari.vermani" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://instagram.com/hey_its_a_me_pario/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/pari-vermani-98b672177" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1101,10 +1101,10 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/prathmesh.namdeo" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.instagram.com/prathu_.namdeo/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.linkedin.com/in/prathmesh-namdeo-aba049120/" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/prathmesh.namdeo" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/prathu_.namdeo/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/prathmesh-namdeo-aba049120/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1118,27 +1118,27 @@
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="#" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="https://www.facebook.com/jahnavi.yadav.184" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/yadav_jahnavi_03/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="http://www.linkedin.com/in/jahnavi-yadav-7a9353204" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-4 all Nontech">
                             <div class="our-team">
                                 <div class="pic">
-                                    <img src="images/person_1.jpg" alt="" />
+                                    <img src="images/team/Supreet_Gupta.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
                                     <h3 class="title">Supreet <br /> Gupta</h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
-                                    <li><a href="#" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                                    <li><a href="#" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/supreet-gupta-33590a190/" class="fa fa-linkedin" target="_blank"></a></li>
                                 </ul>
                             </div>
                         </div>
