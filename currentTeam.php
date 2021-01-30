@@ -56,7 +56,11 @@
                                     <img src="images/team/Sanskriti_Bhansali.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Sanskriti Bhansali</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Sanskriti </span>
+                                        <span class="member-name">Bhansali</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -73,7 +77,11 @@
                                     <img src="images/team/Shaun_Zacharia.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Shaun Zacharia</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Shaun </span>
+                                        <span class="member-name">Zacharia</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -90,7 +98,11 @@
                                     <img src="images/team/Neilabh_Banzal.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Neilabh <br> Banzal</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Neilabh </span>
+                                        <span class="member-name">Bansal</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -107,7 +119,11 @@
                                     <img src="images/team/Piyush_Jirwankar.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Piyush Jirwankar</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Piyush </span>
+                                        <span class="member-name">Jirwankar</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -124,7 +140,11 @@
                                     <img src="images/team/Karan_Jagdale.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Karan <br> Jagdale</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Karan </span>
+                                        <span class="member-name">Jagdale</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -141,7 +161,11 @@
                                     <img src="images/team/Dhananjay_Tiwari.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Dhananjay Tiwari</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Dhananjay </span>
+                                        <span class="member-name">Tiwari</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -158,7 +182,11 @@
                                     <img src="images/person_1.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Ashay <br /> Wakode</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Ashay </span>
+                                        <span class="member-name">Wakode</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -175,7 +203,11 @@
                                     <img src="images/team/Aryan_Lall.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Aryan <br /> Lall</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Aryan </span>
+                                        <span class="member-name">Lall</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -194,7 +226,11 @@
                                     <img src="images/team/Shreya_Laddha.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Shreya <br /> Laddha</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Shreya </span>
+                                        <span class="member-name">Laddha</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -211,7 +247,11 @@
                                     <img src="images/team/Arpit_Verma.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Arpit <br /> Verma</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Arpit </span>
+                                        <span class="member-name">Verma</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -228,7 +268,11 @@
                                     <img src="images//team/Rateesh_Sabde.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Rateesh <br /> Sabde</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Rateesh </span>
+                                        <span class="member-name">Sabde</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -245,7 +289,11 @@
                                     <img src="images/team/Rohit_Yadav.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Rohit Kumar Yadav</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Rohti </span>
+                                        <span class="member-name">Kumar </span>
+                                        <span class="member-name">Yadav</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -262,7 +310,11 @@
                                     <img src="images/team/Millen_Kanabar.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Millen <br /> Kanabar</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Millen </span>
+                                        <span class="member-name">Kanabar</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -279,7 +331,11 @@
                                     <img src="images/team/Prajwal_Prathiksh.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">K T Prajwal Prathiksh</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">K T </span>
+                                        <span class="member-name">Prajwal </span>
+                                        <span class="member-name">Prathiksh</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -296,7 +352,11 @@
                                     <img src="images/team/Atharv_Savarkar.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Atharv Savarkar</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Atharv </span>
+                                        <span class="member-name">Savarkar</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -313,7 +373,11 @@
                                     <img src="images/team/Bhavini_Jeloka.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Bhavini <br /> Jeloka</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Bhavini </span>
+                                        <span class="member-name">Jeloka</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -330,7 +394,11 @@
                                     <img src="images/team/Pranav_Kasat.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Pranav <br /> Kasat</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Pranav </span>
+                                        <span class="member-name">Kasat</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -347,7 +415,11 @@
                                     <img src="images/team/Hrithik_Agarwal.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Hrithik Agrawal</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Hrithik </span>
+                                        <span class="member-name">Agarwal</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -364,7 +436,11 @@
                                     <img src="images/team/Amrutha_Lakshmi_Vadladi.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Amrutha Lakshmi Vadladi </h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Amrutha </span>
+                                        <span class="member-name">Lakshmi </span>
+                                        <span class="member-name">Vadladi</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -381,7 +457,11 @@
                                     <img src="images/team/Ritul_Shinde.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Ritul <br /> Shinde</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Ritul </span>
+                                        <span class="member-name">Shinde</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -398,7 +478,11 @@
                                     <img src="images/team/Yuktee_Gupta.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Yuktee <br /> Gupta</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Yuktee </span>
+                                        <span class="member-name">Gupta</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -415,7 +499,11 @@
                                     <img src="images/team/Yash_Dixit.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Yash <br /> Dixit</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Yash </span>
+                                        <span class="member-name">Dixit</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -432,7 +520,11 @@
                                     <img src="images/team/Ankit_Kumar.png" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Ankit <br /> Kumar</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Ankit </span>
+                                        <span class="member-name">Kumar</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -449,7 +541,11 @@
                                     <img src="images/team/Aakash.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Aakash</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">&nbsp; </span>
+                                        <span class="member-name">Aakash</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -466,7 +562,11 @@
                                     <img src="images/team/Mitalee_Oza.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Mitalee <br /> Oza</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Mitalee </span>
+                                        <span class="member-name">Oza</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -483,7 +583,11 @@
                                     <img src="images/team/Hemantkumar_Gidewar.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Hemantkumar Gidewar</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Hemantkumar </span>
+                                        <span class="member-name">Gidewar</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -500,7 +604,11 @@
                                     <img src="images/team/Karan_Chittora.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Karan <br /> Chittora</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Karan </span>
+                                        <span class="member-name">Chittora</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -517,7 +625,11 @@
                                     <img src="images/team/Mohit_Dhaka.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Mohit <br /> Dhaka</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Mohit </span>
+                                        <span class="member-name">Dhaka</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -536,7 +648,11 @@
                                     <img src="images/team/Yatin_Jindal.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Yatin <br /> Jindal</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Yatin </span>
+                                        <span class="member-name">Jindal</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -553,7 +669,11 @@
                                     <img src="images/team/Akshat_Vira.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Akshat <br /> Vira</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Akshat </span>
+                                        <span class="member-name">Vira</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -570,7 +690,11 @@
                                     <img src="images/team/Vidushi_Verma.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Vidushi <br /> Verma</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Vidushi </span>
+                                        <span class="member-name">Verma</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -587,7 +711,11 @@
                                     <img src="images/team/Ishan_Phansalkar.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Ishan Phansalkar</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Ishan </span>
+                                        <span class="member-name">Phansalkar</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -604,7 +732,11 @@
                                     <img src="images/team/Vatsal_Kanodia.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Vatsal <br /> Kanodia</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Vatsal </span>
+                                        <span class="member-name">Kanodia</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -621,7 +753,11 @@
                                     <img src="images/team/Anmol_Harshana.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Anmol Harshana</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Anmol </span>
+                                        <span class="member-name">Harshana</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -638,7 +774,11 @@
                                     <img src="images/team/Navjit_Debnath.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Navjit <br /> Debnath</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Navjit </span>
+                                        <span class="member-name">Debnath</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -655,7 +795,11 @@
                                     <img src="images/team/Shiven_Barbare.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Shiven Barbare</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Shiven </span>
+                                        <span class="member-name">Barbare</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -672,7 +816,11 @@
                                     <img src="images/team/Pranjal_Gupta.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Pranjal <br /> Gupta</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Pranjal </span>
+                                        <span class="member-name">Gupta</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -689,7 +837,11 @@
                                     <img src="images/team/Kriti_Verma.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Kriti <br /> Verma</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Kriti </span>
+                                        <span class="member-name">Verma</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -706,7 +858,11 @@
                                     <img src="images/team/shreeya_athaley.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Shreeya Athaley</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Shreeya </span>
+                                        <span class="member-name">Shrikant </span>
+                                        <span class="member-name">Athaley</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -723,7 +879,11 @@
                                     <img src="images/team/Soham_Phanse.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Soham <br /> Phanse</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Soham </span>
+                                        <span class="member-name">Phanse</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -740,7 +900,11 @@
                                     <img src="images/team/vineet_gala.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Vineet <br /> Gala</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Vineet </span>
+                                        <span class="member-name">Gala</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -757,7 +921,11 @@
                                     <img src="images/team/Vaishnavi_Agarwal.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Vaishnavi Agarwal</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Vaishnavi </span>
+                                        <span class="member-name">Gaurav </span>
+                                        <span class="member-name">Agarwal</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -774,7 +942,11 @@
                                     <img src="images/team/Leena_Chaudhari.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Leena Chaudhari</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Leena </span>
+                                        <span class="member-name">Chaudhari</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -791,7 +963,11 @@
                                     <img src="images/team/Aravind_Bharathi.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Aravind Bharathi </h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Aravind </span>
+                                        <span class="member-name">Bharathi</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -808,7 +984,11 @@
                                     <img src="images/team/Akshat_Mehta.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Akshat <br /> Mehta</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Akshat </span>
+                                        <span class="member-name">Mehta</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -825,7 +1005,11 @@
                                     <img src="images/team/Anuj_Agrawal.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Anuj S <br /> Agrawal</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Anuj S </span>
+                                        <span class="member-name">Agrawal</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -842,7 +1026,11 @@
                                     <img src="images/team/SIddhi_Bagul.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Siddhi G <br /> Bagul</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Siddhi G </span>
+                                        <span class="member-name">Bagul</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -859,7 +1047,11 @@
                                     <img src="images/team/Adesh_Yadav.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Adesh <br /> Yadav</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Adesh </span>
+                                        <span class="member-name">Yadav</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -876,7 +1068,11 @@
                                     <img src="images/team/Aayush_Shah.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Aayush <br /> Shah</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Aayush </span>
+                                        <span class="member-name">Shah</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -893,7 +1089,11 @@
                                     <img src="images/team/Jayant_Saboo.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Jayant <br /> Saboo</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Jayant </span>
+                                        <span class="member-name">Saboo</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -910,7 +1110,11 @@
                                     <img src="images/team/Shashank_Singh.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Shashank Singh</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Shashank </span>
+                                        <span class="member-name">Singh</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -927,7 +1131,11 @@
                                     <img src="images/team/Aruja_Khanna.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Aruja <br /> Khanna</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Aruja </span>
+                                        <span class="member-name">Khanna</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -944,7 +1152,11 @@
                                     <img src="images/team/Shruti_Agrawal.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Shruti <br /> Agrawal</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Shruti </span>
+                                        <span class="member-name">Agrawal</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -961,7 +1173,11 @@
                                     <img src="images/team/Pawan_Kumar.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Pawan <br /> Kumar </h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Pawan </span>
+                                        <span class="member-name">Kumar</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -978,7 +1194,11 @@
                                     <img src="images/team/Anjali_Rawat.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Anjali <br /> Rawat</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Anjali </span>
+                                        <span class="member-name">Rawat</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -995,7 +1215,11 @@
                                     <img src="images/team/Siddharth_Khandelwal.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Siddharth Khandelwal</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Siddharth </span>
+                                        <span class="member-name">Khandelwal</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -1012,7 +1236,11 @@
                                     <img src="images/team/Dhruv_Shah.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Dhruv <br /> Shah</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Dhruv </span>
+                                        <span class="member-name">Shah</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -1029,7 +1257,11 @@
                                     <img src="images/team/Dhanush_S.png" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Dhanush S</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">&nbsp; </span>
+                                        <span class="member-name">Dhanush S</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -1046,7 +1278,11 @@
                                     <img src="images/team/Shivani_Verma.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Shivani <br /> Verma</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Shivani </span>
+                                        <span class="member-name">Verma</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -1063,7 +1299,11 @@
                                     <img src="images/team/Prasham_Shah.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Prasham <br /> Shah</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Prasham </span>
+                                        <span class="member-name">Shah</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -1080,7 +1320,11 @@
                                     <img src="images/team/Pari_Vermani.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Pari <br /> Vermani</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Pari </span>
+                                        <span class="member-name">Vermani</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -1097,7 +1341,11 @@
                                     <img src="images/team/Prathmesh_Namdeo.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Prathmesh Namdeo</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Prathmesh </span>
+                                        <span class="member-name">Namdeo</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -1114,7 +1362,11 @@
                                     <img src="images/team/Jahnavi_Yadav.jpeg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Jahnavi <br /> Yadav</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Jahnavi </span>
+                                        <span class="member-name">Yadav</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
@@ -1131,7 +1383,11 @@
                                     <img src="images/team/Supreet_Gupta.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="title">Supreet <br /> Gupta</h3>
+                                    <h3 class="title">
+                                        <span class="member-name">Supreet </span>
+                                        <span class="member-name">Gupta</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
                                     <!--<span class="post">Web Developer</span>-->
                                 </div>
                                 <ul class="social">
