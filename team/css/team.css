@@ -117,13 +117,10 @@
         background: #f7f5ec;
     }
 
-	@media (max-width: 720px) {
-		.container {
-            flex-direction: column;
-		}
+	@media (max-width: 765px) {
 
 		.our-team {
-            width: 80%;
+            width: 94%;
             margin-top: 30px;
 		}
 
