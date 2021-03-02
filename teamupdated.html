@@ -81,9 +81,9 @@
                                         <h3 class="title">
                                             <span class="member-name">Sanskriti </span>
                                             <span class="member-name">Bhansali</span>
-                                            <span class="member-name">&nbsp;</span>
+                                            <!--<span class="member-name">&nbsp;</span>-->
                                         </h3>
-                                        <!--<span class="post">Web Developer</span>-->
+                                        <span class="post">Project Manager</span>
                                     </div>
                                     <ul class="social">
                                         <li><a href="https://www.facebook.com/sanskriti0310" class="fa fa-facebook" target="_blank"></a></li>
@@ -103,9 +103,9 @@
                                         <h3 class="title">
                                             <span class="member-name">Shaun </span>
                                             <span class="member-name">Zacharia</span>
-                                            <span class="member-name">&nbsp;</span>
+                                            <!--<span class="member-name">&nbsp;</span>-->
                                         </h3>
-                                        <!--<span class="post">Web Developer</span>-->
+                                        <span class="post">Assistant Project Manager</span>
                                     </div>
                                     <ul class="social">
                                         <li><a href="https://www.facebook.com/shaun.zacharia.77/" class="fa fa-facebook" target="_blank"></a></li>

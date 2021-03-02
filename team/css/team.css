@@ -83,6 +83,8 @@
         display: block;
         font-size: 15px;
         color: #4e5052;
+        padding-top: 5px;
+        padding-bottom: 12px;
     }
 
     .our-team .social {
