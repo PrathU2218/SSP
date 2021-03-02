@@ -1,12 +1,12 @@
 ﻿
-
 	.our-team {
         background: #f7f5ec;
         text-align: center;
         overflow: hidden;
         position: relative;
-        margin: 10px 8px;
+        margin: 10px 0px;
         padding: 30px 30px;
+        width: 100%;
 	}
 
 	.our-team .pic {
@@ -64,6 +64,7 @@
 
     .our-team .team-content {
         margin-bottom: 20px;
+        display: inline;
     }
 
     .our-team .team-content .member-name {
@@ -93,6 +94,7 @@
         bottom: -100px;
         left: 0;
         transition: all 0.5s ease 0s;
+        text-align: center;
     }
 
     .our-team:hover .social {
@@ -117,15 +119,37 @@
         background: #f7f5ec;
     }
 
+    .center-tile {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .subsystem-heading {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .subsystem-heading h4 {
+        color: #0984e3;
+    }
+
 	@media (max-width: 765px) {
 
 		.our-team {
-            width: 94%;
             margin-top: 30px;
 		}
 
+        .our-team .team-content .title {
+            padding-bottom: 10px;
+        }
+
         .our-team .team-content .member-name {
             display: inline;
+        }
+
+        .center-tile {
+            display: block;
         }
 	}
 
