@@ -1113,7 +1113,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 all HRC">
+                        <div class="col-lg-3 col-md-4 all GLEE">
                             <div class="our-team">
                                 <div class="pic">
                                     <img src="images/team/Shruti_Agrawal.jpeg" alt="" />
@@ -1393,7 +1393,7 @@
                         <div class="col-lg-3 col-md-4 all STADS">
                             <div class="our-team">
                                 <div class="pic">
-                                    <img src="images/team/Aayush_Shah.JPG" alt="" />
+                                    <img src="images/team/Aayush_Shah.jpg" alt="" />
                                 </div>
                                 <div class="team-content">
                                     <h3 class="title">
