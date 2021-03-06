@@ -134,6 +134,7 @@
 
     .subsystem-heading h4 {
         color: #0984e3;
+        text-align: center;
     }
 
 	@media (max-width: 765px) {
