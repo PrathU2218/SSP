@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Current Team &mdash; Student Satellite Project &mdash; IIT Bombay</title>
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="team/css/bootstrap.css">
+    <!--<link rel="stylesheet" href="team/css/bootstrap.css">-->
     <!--<link rel="stylesheet" href="team/vendors/linericon/style.css">-->
-    <link rel="stylesheet" href="team/css/font-awesome.min.css">
+    <link rel="stylesheet" href="team/css/font-awesome1.min.css">
     <!--<link rel="stylesheet" href="team/vendors/owl-carousel/owl.carousel.min.css">-->
     <!--<link rel="stylesheet" href="team/css/magnific-popup.css">-->
     <!--<link rel="stylesheet" href="team/vendors/nice-select/css/nice-select.css">-->
@@ -130,7 +130,31 @@
                         </div>
                     </div>
 
+
                     <div class="row portfolio-grid justify-content-center">
+
+                        <div class="col-lg-3 col-md-4 all HRC">
+                            <div class="our-team">
+                                <div class="pic">
+                                    <img src="images/team/Siddhi_Nagre.JPG" alt="" />
+                                </div>
+                                <div class="team-content">
+                                    <h3 class="title">
+                                        <span class="member-name">Siddhi </span>
+                                        <span class="member-name">Nagre</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
+                                    <!--<span class="post">Web Developer</span>-->
+                                </div>
+                                <ul class="social">
+                                    <li><a href="https://www.facebook.com/siddhi.nagre/" class="fa fa-facebook"></a></li>
+                                    <!--<li><a href="#" class="fa fa-twitter"></a></li>-->
+                                    <li><a href="https://www.instagram.com/siddhinagre/" class="fa fa-instagram"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/siddhi-nagre-b71157173/" class="fa fa-linkedin"></a></li>
+                                    <!--<li><a href="#" class="fa fa-link" target="_blank"></a></li>-->
+                                </ul>
+                            </div>
+                        </div>
                         <div class="col-lg-3 col-md-4 all Sanket">
                             <div class="our-team">
                                 <div class="pic">
@@ -149,6 +173,28 @@
                                     <!--<li><a href="#" class="fa fa-twitter" target="_blank"></a></li>-->
                                     <!--<li><a href="#" class="fa fa-instagram" target="_blank"></a></li>-->
                                     <li><a href="https://www.linkedin.com/in/karan-jagdale-460b49195/" class="fa fa-linkedin" target="_blank"></a></li>
+                                    <!--<li><a href="#" class="fa fa-link" target="_blank"></a></li>-->
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 all Sanket">
+                            <div class="our-team">
+                                <div class="pic">
+                                    <img src="images/team/Puneet_Shrivas.jpg" alt="" />
+                                </div>
+                                <div class="team-content">
+                                    <h3 class="title">
+                                        <span class="member-name">Puneet </span>
+                                        <span class="member-name">Shrivas</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
+                                    <!--<span class="post">Web Developer</span>-->
+                                </div>
+                                <ul class="social">
+                                    <li><a href="https://www.facebook.com/puneet.shrivas.7/" class="fa fa-facebook" target="_blank"></a></li>
+                                    <li><a href="https://twitter.com/ShrivasPuneet" class="fa fa-twitter" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/puneet.shrivas/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/puneet-shrivas/" class="fa fa-linkedin" target="_blank"></a></li>
                                     <!--<li><a href="#" class="fa fa-link" target="_blank"></a></li>-->
                                 </ul>
                             </div>
@@ -191,7 +237,7 @@
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/profile.php?id=100009854465275" class="fa fa-facebook" target="_blank"></a></li>
                                     <!--<li><a href="#" class="fa fa-twitter" target="_blank"></a></li>-->
-                                    <li><a href="https://www.instagram.com/arpit_wan_kenobi/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.instagram.com/arupito_/" class="fa fa-instagram" target="_blank"></a></li>
                                     <li><a href="https://www.linkedin.com/in/arpit-verma-32b764194/" class="fa fa-linkedin" target="_blank"></a></li>
                                     <!--<li><a href="#" class="fa fa-link" target="_blank"></a></li>-->
                                 </ul>
@@ -420,10 +466,10 @@
                         <!--</div>-->
                         <!--Electrical Subsystem-->
                         <!--<div class="row portfolio-grid justify-content-center">
-                        <div class="all subsystem-heading">
-                            <h4>Electrical Subsystem</h4>
-                        </div>
-                        </div>-->
+    <div class="all subsystem-heading">
+        <h4>Electrical Subsystem</h4>
+    </div>
+    </div>-->
                         <!--<div class="row portfolio-grid justify-content-center">-->
                         <div class="all subsystem-heading">
                             <h4>Electrical Subsystem</h4>
@@ -492,6 +538,50 @@
                                     <!--<li><a href="#" class="fa fa-instagram" target="_blank"></a></li>-->
                                     <!--<li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>-->
                                     <li><a href="http://theweepingsage.github.io" class="fa fa-link" target="_blank"></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 all STADS">
+                            <div class="our-team">
+                                <div class="pic">
+                                    <img src="images/team/Vaibhav_Malviya.jpg" alt="" />
+                                </div>
+                                <div class="team-content">
+                                    <h3 class="title">
+                                        <span class="member-name">Vaibhav </span>
+                                        <span class="member-name">Malviya</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
+                                    <!--<span class="post">Web Developer</span>-->
+                                </div>
+                                <ul class="social">
+                                    <li><a href="https://www.facebook.com/vaibhav.malviya.16" class="fa fa-facebook" target="_blank"></a></li>
+                                    <!--<li><a href="#" class="fa fa-twitter" target="_blank"></a></li>-->
+                                    <li><a href="https://www.instagram.com/vaibhav.malviya.16/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/vaibhavmalviya110" class="fa fa-linkedin" target="_blank"></a></li>
+                                    <!--<li><a href="#" class="fa fa-link" target="_blank"></a></li>-->
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 all Sanket">
+                            <div class="our-team">
+                                <div class="pic">
+                                    <img src="images/team/Prashant_Kurrey.jpg" alt="" />
+                                </div>
+                                <div class="team-content">
+                                    <h3 class="title">
+                                        <span class="member-name">Prashant </span>
+                                        <span class="member-name">Kurrey</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
+                                    <!--<span class="post">Web Developer</span>-->
+                                </div>
+                                <ul class="social">
+                                    <li><a href="https://www.facebook.com/prashant.kurrey.98" class="fa fa-facebook" target="_blank"></a></li>
+                                    <!--<li><a href="#" class="fa fa-twitter" target="_blank"></a></li>-->
+                                    <li><a href="https://www.instagram.com/prashant.kurrey/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <!--<li><a href="" class="fa fa-linkedin" target="_blank"></a></li>-->
+                                    <!--<li><a href="#" class="fa fa-link" target="_blank"></a></li>-->
                                 </ul>
                             </div>
                         </div>
@@ -696,10 +786,10 @@
                         <!--</div>-->
                         <!--GNC Subsystem-->
                         <!--<div class="row portfolio-grid justify-content-center">
-                        <div class="all subsystem-heading">
-                            <h4>GNC Subsystem</h4>
-                        </div>
-                        </div>-->
+    <div class="all subsystem-heading">
+        <h4>GNC Subsystem</h4>
+    </div>
+    </div>-->
                         <!--<div class="row portfolio-grid justify-content-center">-->
                         <div class="all subsystem-heading">
                             <h4>GNC Subsystem</h4>
@@ -815,7 +905,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 all Sanket">
+                        <div class="col-lg-3 col-md-4 all RVD">
                             <div class="our-team">
                                 <div class="pic">
                                     <img src="images/team/Mitalee_Oza.jpeg" alt="" />
@@ -1025,6 +1115,28 @@
                                 </ul>
                             </div>
                         </div>
+                        <div class="col-lg-3 col-md-4 all STADS">
+                            <div class="our-team">
+                                <div class="pic">
+                                    <img src="images/team/Niket_Parikh.jpeg" alt="" />
+                                </div>
+                                <div class="team-content">
+                                    <h3 class="title">
+                                        <span class="member-name">Niket </span>
+                                        <span class="member-name">Parikh</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
+                                    <!--<span class="post">Web Developer</span>-->
+                                </div>
+                                <ul class="social">
+                                    <li><a href="https://m.facebook.com/niket.parikh.16" class="fa fa-facebook" target="_blank"></a></li>
+                                    <!--<li><a href="#" class="fa fa-twitter" target="_blank"></a></li>-->
+                                    <li><a href="https://www.instagram.com/npnike14/" class="fa fa-instagram" target="_blank"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/niket-parikh-b9a87214b" class="fa fa-linkedin" target="_blank"></a></li>
+                                    <!--<li><a href="#" class="fa fa-link" target="_blank"></a></li>-->
+                                </ul>
+                            </div>
+                        </div>
                         <div class="col-lg-3 col-md-4 all GLEE">
                             <div class="our-team">
                                 <div class="pic">
@@ -1157,6 +1269,7 @@
                                 </ul>
                             </div>
                         </div>
+
                         <!--</div>-->
                         <!--Mechanical Subsystem-->
                         <!--<div class="row portfolio-grid justify-content-center">
@@ -1187,6 +1300,28 @@
                                     <!--<li><a href="#" class="fa fa-twitter" target="_blank"></a></li>-->
                                     <!--<li><a href="#" class="fa fa-instagram" target="_blank"></a></li>-->
                                     <li><a href="https://www.linkedin.com/in/ashay-wakode-a074ab154" class="fa fa-linkedin" target="_blank"></a></li>
+                                    <!--<li><a href="#" class="fa fa-link" target="_blank"></a></li>-->
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 all Sanket">
+                            <div class="our-team">
+                                <div class="pic">
+                                    <img src="images/team/Mrigi_Munjal.JPG" alt="" />
+                                </div>
+                                <div class="team-content">
+                                    <h3 class="title">
+                                        <span class="member-name">Mrigi </span>
+                                        <span class="member-name">Munjal</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
+                                    <!--<span class="post">Web Developer</span>-->
+                                </div>
+                                <ul class="social">
+                                    <!--<li><a href="" class="fa fa-facebook" target="_blank"></a></li>-->
+                                    <!--<li><a href="#" class="fa fa-twitter" target="_blank"></a></li>-->
+                                    <!--<li><a href="" class="fa fa-instagram" target="_blank"></a></li>-->
+                                    <!--<li><a href="" class="fa fa-linkedin" target="_blank"></a></li>-->
                                     <!--<li><a href="#" class="fa fa-link" target="_blank"></a></li>-->
                                 </ul>
                             </div>
@@ -1468,6 +1603,28 @@
                             <h4>Non-Tech Subsystem</h4>
                         </div>
 
+                        <div class="col-lg-3 col-md-4 all Nontech">
+                            <div class="our-team">
+                                <div class="pic">
+                                    <img src="images/team/Alok_Kumar.jpg" alt="" />
+                                </div>
+                                <div class="team-content">
+                                    <h3 class="title">
+                                        <span class="member-name">Alok </span>
+                                        <span class="member-name">Kumar</span>
+                                        <span class="member-name">&nbsp;</span>
+                                    </h3>
+                                    <!--<span class="post">Web Developer</span>-->
+                                </div>
+                                <ul class="social">
+                                    <!--<li><a href="#" class="fa fa-facebook"></a></li>-->
+                                    <li><a href="https://twitter.com/alok_kr1" class="fa fa-twitter"></a></li>
+                                    <!--<li><a href="#" class="fa fa-instagram"></a></li>-->
+                                    <li><a href="https://www.linkedin.com/in/alok-kumar-ak/" class="fa fa-linkedin"></a></li>
+                                    <!--<li><a href="#" class="fa fa-link" target="_blank"></a></li>-->
+                                </ul>
+                            </div>
+                        </div>
                         <div class="col-lg-3 col-md-4 all Nontech">
                             <div class="our-team">
                                 <div class="pic">
